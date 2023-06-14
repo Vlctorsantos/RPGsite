@@ -1,0 +1,26 @@
+html {font-size: 10px; /* px significa "pixels": o tamanho da fonte base é agora de 10 pixels */
+    background-color: #00539F;
+    font-family: 'Roboto Mono', monospace;/* este deve ser o nome da fonte que você obteve no Google Fonts */
+}
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 3px 3px 1px black;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+  
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+a {
+    font-size: 100px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+  
